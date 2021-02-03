@@ -1,0 +1,2 @@
+echo ""[Dusa"[C>> usa.txt
+git status
